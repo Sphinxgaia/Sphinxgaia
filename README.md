@@ -45,11 +45,20 @@ I'm :
 
 ## Talks 💬
 
+### 2024
+
+- **FR - DEVFEST Nantes 17-18/10** : Le petit chaperon rouge pratique enfin le 'Zero Trust' (Lab Version)
+- **FR - Volcamp.io 10-11/10** : [Goldie d'or et les 3 CNI](https://www.youtube.com/watch?v=Owrg7UanA4o)
+- **FR - Hashitalks France 12/09** : [Eviter que le chat botté ne vole vos secrets)](https://www.youtube.com/watch?v=KOy4N1AIt1Q&t=9106s)
+- **EN - Hashitalk Secure 22-23/05** : [Little red riding hood finally pratices 'Zero Trust' (Hashicorp Version)](https://www.youtube.com/live/-cTMyG0IrZM?si=xJn5gn0EppdtBrPJ&t=10364)
+
+
 ### 2023
 
 - **FR - Devoxx France 12-14/04** : Le petit chaperon rouge pratique enfin le 'Zero Trust' (Lab Version)
 - **FR - KCDFrance 07/03** : [Goldie d'or et les 3 CNI](https://www.youtube.com/watch?v=opgQN2MxlvA)
 - **FR - Hashitalks France 26/01** : [Le petit chaperon rouge pratique enfin le 'Zero Trust' (Hashicorp Version)](https://www.youtube.com/live/Rwm3nEhrIaU?si=tCWMzYL1E9iGJCle&t=1940)
+
 ### 2022
 - **FR - Codeurs en Seine 11/2022** : [Le petit chaperon rouge pratique enfin le 'Zero Trust'](https://www.youtube.com/watch?v=47Eu6EC-xp0&list=PLbbYL6fWx8WyCEehq-sZx_iM3a4NVAoi-&index=23)
 - **FR - Volcamp 10/2022** : [When the little three goldies* play in the captain kube's zoo](https://www.youtube.com/watch?v=X8tnewUMvIA)
